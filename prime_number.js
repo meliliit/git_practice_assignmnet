@@ -5,7 +5,7 @@ if(num%i==0){
 count++;
 }
 }
-if(count==2){
-console.log("prime number");
+if(count!=2){
+console.log("Not a prime number");
 }else{
-console.log("not a prime number");
+console.log("Prime number");

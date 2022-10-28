@@ -11,4 +11,6 @@ bag2=bag2+str(i);
 if(bag1==bag2){
 console.log("palindrome");
 }
+else{
+console.log("Not a palindrome");}
 //add else condition
